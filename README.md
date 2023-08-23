@@ -9,6 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/anasheedct/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/anasheedct/azure-network-protocols)
+- <b>Implementing Active Directory (On-Premises) in Azure</b>
+  - [Active Directory: Set up Resources in Azure](https://github.com/anasheedct/osticket-prereqs) 
+
 
 <h2>🤳Connect with me:</h2>
 
